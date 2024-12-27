@@ -185,3 +185,15 @@
 [03:04:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=535, y=14, z=-103} class_2338{x=535, y=14, z=-102}
 [03:04:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=535, y=14, z=-103} class_2338{x=535, y=14, z=-102}
 [03:04:16] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=535, y=14, z=-103} class_2338{x=535, y=14, z=-102}
+[03:10:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=17, z=-78} class_2338{x=339, y=18, z=-80}
+[03:10:40] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=17, z=-78} class_2338{x=339, y=18, z=-80}
+[03:10:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=17, z=-78} class_2338{x=339, y=18, z=-80}
+[03:10:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=17, z=-78} class_2338{x=339, y=18, z=-80}
+[03:10:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=17, z=-78} class_2338{x=339, y=18, z=-80}
+[03:10:41] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=341, y=17, z=-78} class_2338{x=339, y=18, z=-80}
+[03:14:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=535, y=17, z=-125} class_2338{x=536, y=16, z=-124}
+[03:15:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=534, y=22, z=-140} class_2338{x=534, y=21, z=-139}
+[03:15:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=534, y=22, z=-140} class_2338{x=534, y=21, z=-139}
+[03:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=535, y=16, z=-149} class_2338{x=535, y=15, z=-148}
+[03:15:17] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=535, y=16, z=-149} class_2338{x=535, y=15, z=-148}
+[03:16:13] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 492.500000, 107.000000, -30.500000]
