@@ -169,3 +169,17 @@
 [17:43:05] [Server thread/INFO]: Villager class_1646['Villager'/9996, l='ServerLevel[world]', x=4573.37, y=63.56, z=1184.72] died, message: 'Villager suffocated in a wall'
 [18:03:57] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Spectator Mode]
 [18:04:34] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Survival Mode]
+[18:05:46] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3915, y=73, z=-142} class_2338{x=3915, y=72, z=-143}
+[18:10:36] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[18:10:36] [Server thread/INFO]: CreeperHunte2068 left the game
+[18:10:45] [Server thread/INFO]: Stopping the server
+[18:10:45] [Server thread/INFO]: Stopping server
+[18:10:45] [Server thread/INFO]: Saving players
+[18:10:45] [Server thread/INFO]: Saving worlds
+[18:10:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:10:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:10:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:10:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
