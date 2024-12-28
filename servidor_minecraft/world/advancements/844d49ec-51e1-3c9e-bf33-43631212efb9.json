@@ -34,6 +34,7 @@
       "minecraft:snowy_taiga": "2024-11-21 13:47:04 +0000",
       "minecraft:dripstone_caves": "2024-12-05 18:51:30 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-04 20:49:05 +0000",
+      "minecraft:deep_dark": "2024-12-27 20:05:00 +0000",
       "minecraft:meadow": "2024-11-03 23:41:24 +0000",
       "minecraft:plains": "2024-11-03 23:38:44 +0000"
     },
@@ -741,6 +742,7 @@
       "minecraft:blaze": "2024-11-10 02:18:22 +0000",
       "minecraft:skeleton": "2024-11-04 20:38:13 +0000",
       "minecraft:ravager": "2024-11-09 18:49:31 +0000",
+      "minecraft:ghast": "2024-12-28 01:48:49 +0000",
       "minecraft:hoglin": "2024-11-08 02:28:16 +0000",
       "minecraft:vindicator": "2024-11-07 03:36:47 +0000",
       "minecraft:breeze": "2024-12-04 18:09:49 +0000",
@@ -4712,6 +4714,36 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2024-12-06 16:40:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid_smithing": {
+    "criteria": {
+      "has_squid": "2024-12-27 19:42:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-27 20:05:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-28 01:48:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon_smithing": {
+    "criteria": {
+      "has_melon": "2024-12-28 01:45:46 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2024-12-28 01:46:07 +0000"
     },
     "done": true
   },
