@@ -172,3 +172,16 @@
 [02:25:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=451, y=93, z=-40} class_2338{x=449, y=92, z=-40}
 [02:25:36] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=451, y=93, z=-40} class_2338{x=449, y=92, z=-40}
 [02:25:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=439, y=82, z=-40} class_2338{x=438, y=82, z=-40}
+[02:36:07] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[02:36:07] [Server thread/INFO]: CreeperHunte2068 left the game
+[02:36:18] [Server thread/INFO]: Stopping the server
+[02:36:18] [Server thread/INFO]: Stopping server
+[02:36:18] [Server thread/INFO]: Saving players
+[02:36:18] [Server thread/INFO]: Saving worlds
+[02:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:36:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
