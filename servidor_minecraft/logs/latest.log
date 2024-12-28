@@ -1,5 +1,5 @@
-[14:19:24] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
-[14:19:25] [main/INFO]: Loading 93 mods:
+[18:06:55] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.16.3
+[18:06:55] [main/INFO]: Loading 93 mods:
 	- alternate-current 1.9.0
 	- cardinal-components 6.1.1
 	   |-- cardinal-components-base 6.1.1
@@ -105,84 +105,77 @@
 	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0
 	   |-- org_quiltmc_parsers_gson 0.2.1
 	   \-- org_quiltmc_parsers_json 0.2.1
-[14:19:25] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-Tecnico/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:19:25] [main/INFO]: Compatibility level set to JAVA_16
-[14:19:25] [main/INFO]: Compatibility level set to JAVA_18
-[14:19:26] [main/INFO]: Compatibility level set to JAVA_21
-[14:19:26] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 1 override(s) found
-[14:19:26] [main/INFO]: Loaded configuration file for ModernFix 5.19.3+mc1.21.1: 54 options available, 0 override(s) found
-[14:19:26] [main/INFO]: Applying Nashorn fix
-[14:19:27] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[14:19:27] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext)
-[14:19:27] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext was not found mixins.sodiumleafculling.json:AbstractBlockRenderContextAccessor from mod sodiumleafculling
-[14:19:27] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
-[14:19:27] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache was not found mixins.sodiumleafculling.json:BlockOcclusionCacheMixin from mod sodiumleafculling
-[14:19:27] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
-[14:19:27] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer was not found mixins.sodiumleafculling.json:BlockRendererMixin from mod sodiumleafculling
-[14:19:27] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings)
-[14:19:27] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptions$PerformanceSettings was not found mixins.sodiumleafculling.json:PerformanceSettingsMixin from mod sodiumleafculling
-[14:19:27] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages)
-[14:19:27] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages was not found mixins.sodiumleafculling.json:SodiumGameOptionPagesMixin from mod sodiumleafculling
-[14:19:27] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:19:30] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[14:19:30] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[14:19:30] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[14:19:31] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[14:19:35] [main/INFO]: Vanilla bootstrap took 7083 milliseconds
-[14:19:36] [main/INFO]: [STDOUT]: Team Addoners Initializing
-[14:19:36] [main/ERROR]: No data fixer registered for 
-[14:19:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[14:19:36] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[14:19:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[14:19:36] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[14:19:36] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[14:19:37] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[14:19:37] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:19:40] [main/INFO]: Loaded 1415 recipes
-[14:19:40] [main/INFO]: Loaded 1524 advancements
-[14:19:40] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 7.182 ms
-[14:19:40] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[14:19:40] [Server thread/INFO]: Loading properties
-[14:19:40] [Server thread/INFO]: Default game type: SURVIVAL
-[14:19:40] [Server thread/INFO]: Generating keypair
-[14:19:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:19:40] [Server thread/INFO]: Using epoll channel type
-[14:19:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:19:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:19:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:19:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:19:41] [Server thread/INFO]: Preparing level "world"
-[14:19:41] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
-[14:19:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:19:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:19:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:19:42] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:19:42] [Server thread/INFO]: Time elapsed: 1175 ms
-[14:19:42] [Server thread/INFO]: Done (1.846s)! For help, type "help"
-[14:19:42] [Server thread/WARN]: Dedicated server took 19.595 seconds to load
-[14:19:42] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[14:19:42] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[14:20:10] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:58444] logged in with entity id 32 at (3909.7394102442354, 74.0, -185.67163788274013)
-[14:20:10] [Server thread/INFO]: Loading config from file...
-[14:20:10] [Server thread/INFO]: CreeperHunte2068 joined the game
-[14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
-[14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
-[14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
-[14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
-[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
-[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
-[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
-[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
-[15:59:41] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
-[15:59:41] [Server thread/INFO]: CreeperHunte2068 left the game
-[15:59:49] [Server thread/INFO]: Stopping the server
-[15:59:49] [Server thread/INFO]: Stopping server
-[15:59:49] [Server thread/INFO]: Saving players
-[15:59:49] [Server thread/INFO]: Saving worlds
-[15:59:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:59:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:59:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:59:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:06:56] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server-Tecnico/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:06:56] [main/INFO]: Compatibility level set to JAVA_16
+[18:06:56] [main/INFO]: Compatibility level set to JAVA_18
+[18:06:56] [main/INFO]: Compatibility level set to JAVA_21
+[18:06:56] [main/INFO]: Loaded configuration file for Lithium: 144 options available, 1 override(s) found
+[18:06:56] [main/INFO]: Loaded configuration file for ModernFix 5.19.3+mc1.21.1: 54 options available, 0 override(s) found
+[18:06:56] [main/INFO]: Applying Nashorn fix
+[18:06:57] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[18:06:57] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/frapi/render/AbstractBlockRenderContext)
+[18:06:57] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext was not found mixins.sodiumleafculling.json:AbstractBlockRenderContextAccessor from mod sodiumleafculling
+[18:06:57] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockOcclusionCache)
+[18:06:57] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockOcclusionCache was not found mixins.sodiumleafculling.json:BlockOcclusionCacheMixin from mod sodiumleafculling
+[18:06:57] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/render/chunk/compile/pipeline/BlockRenderer)
+[18:06:57] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.render.chunk.compile.pipeline.BlockRenderer was not found mixins.sodiumleafculling.json:BlockRendererMixin from mod sodiumleafculling
+[18:06:57] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptions$PerformanceSettings)
+[18:06:57] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptions$PerformanceSettings was not found mixins.sodiumleafculling.json:PerformanceSettingsMixin from mod sodiumleafculling
+[18:06:57] [main/WARN]: Error loading class: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages (java.lang.ClassNotFoundException: net/caffeinemc/mods/sodium/client/gui/SodiumGameOptionPages)
+[18:06:57] [main/WARN]: @Mixin target net.caffeinemc.mods.sodium.client.gui.SodiumGameOptionPages was not found mixins.sodiumleafculling.json:SodiumGameOptionPagesMixin from mod sodiumleafculling
+[18:06:57] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:07:01] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[18:07:01] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[18:07:01] [main/INFO]: Injecting BlockStateBase cache population hook into lithium$getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[18:07:02] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[18:07:05] [main/INFO]: Vanilla bootstrap took 6563 milliseconds
+[18:07:06] [main/INFO]: [STDOUT]: Team Addoners Initializing
+[18:07:06] [main/ERROR]: No data fixer registered for 
+[18:07:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[18:07:06] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[18:07:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[18:07:06] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[18:07:06] [main/INFO]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18:07:06] [main/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[18:07:07] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:07:09] [main/INFO]: Loaded 1415 recipes
+[18:07:10] [main/INFO]: Loaded 1524 advancements
+[18:07:10] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.359 ms
+[18:07:10] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[18:07:10] [Server thread/INFO]: Loading properties
+[18:07:10] [Server thread/INFO]: Default game type: SURVIVAL
+[18:07:10] [Server thread/INFO]: Generating keypair
+[18:07:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:07:10] [Server thread/INFO]: Using epoll channel type
+[18:07:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:07:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:07:10] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:07:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:07:10] [Server thread/INFO]: Preparing level "world"
+[18:07:11] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.collections.chunk_tickets.SortedArraySetMixin. Skipping method.
+[18:07:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:07:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:07:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:07:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[18:07:12] [Server thread/INFO]: Time elapsed: 1408 ms
+[18:07:12] [Server thread/INFO]: Done (2.055s)! For help, type "help"
+[18:07:12] [Server thread/WARN]: Dedicated server took 18.887 seconds to load
+[18:07:12] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18:07:12] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[18:08:36] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:60120] logged in with entity id 32 at (3895.237500011921, 67.0, -215.58318756047916)
+[18:08:36] [Server thread/INFO]: Loading config from file...
+[18:08:36] [Server thread/INFO]: CreeperHunte2068 joined the game
+[18:15:15] [Server thread/INFO]: XxchipafresaxX[/100.125.233.123:58281] logged in with entity id 4580 at (4039.5638674943834, 66.0, -124.62857047971974)
+[18:15:15] [Server thread/INFO]: Loading config from file...
+[18:15:15] [Server thread/INFO]: XxchipafresaxX joined the game
+[18:15:52] [Server thread/INFO]: CreeperHunte2068 lost connection: Timed out
+[18:15:52] [Server thread/INFO]: CreeperHunte2068 left the game
+[18:15:52] [Server thread/WARN]: handleDisconnection() called twice
+[18:16:01] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:60161] logged in with entity id 6075 at (3887.932503788301, 195.5456346618924, 114.83516077683873)
+[18:16:01] [Server thread/INFO]: Loading config from file...
+[18:16:01] [Server thread/INFO]: CreeperHunte2068 joined the game
+[18:17:40] [Server thread/INFO]: XxchipafresaxX lost connection: Disconnected
+[18:17:40] [Server thread/INFO]: XxchipafresaxX left the game
+[18:18:00] [Server thread/INFO]: XxchipafresaxX[/100.125.233.123:58296] logged in with entity id 8097 at (4064.315952097378, 64.0, -169.47633629351552)
+[18:18:00] [Server thread/INFO]: Loading config from file...
+[18:18:00] [Server thread/INFO]: XxchipafresaxX joined the game
