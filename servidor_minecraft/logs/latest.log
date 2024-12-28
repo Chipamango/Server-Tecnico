@@ -179,3 +179,18 @@
 [18:18:00] [Server thread/INFO]: XxchipafresaxX[/100.125.233.123:58296] logged in with entity id 8097 at (4064.315952097378, 64.0, -169.47633629351552)
 [18:18:00] [Server thread/INFO]: Loading config from file...
 [18:18:00] [Server thread/INFO]: XxchipafresaxX joined the game
+[18:39:53] [Server thread/INFO]: XxchipafresaxX lost connection: Disconnected
+[18:39:53] [Server thread/INFO]: XxchipafresaxX left the game
+[18:43:19] [Server thread/INFO]: XxchipafresaxX[/100.125.233.123:58330] logged in with entity id 19794 at (4043.3918632606064, 64.0, -182.86626460620514)
+[18:43:19] [Server thread/INFO]: Loading config from file...
+[18:43:19] [Server thread/INFO]: XxchipafresaxX joined the game
+[18:57:41] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[18:57:41] [Server thread/INFO]: CreeperHunte2068 left the game
+[19:01:38] [Server thread/INFO]: XxchipafresaxX lost connection: Disconnected
+[19:01:38] [Server thread/INFO]: XxchipafresaxX left the game
+[19:05:37] [Server thread/INFO]: CreeperHunte2068[/100.76.66.75:60431] logged in with entity id 39500 at (4031.74995579848, 66.0, -170.74644401178506)
+[19:05:37] [Server thread/INFO]: Loading config from file...
+[19:05:37] [Server thread/INFO]: CreeperHunte2068 joined the game
+[19:06:58] [Server thread/INFO]: Villager class_1646['Cartographer'/39603, l='ServerLevel[world]', x=3942.70, y=75.00, z=-160.30] died, message: 'Cartographer was slain by Zombie'
+[19:07:17] [Server thread/INFO]: Villager class_1646['Cartographer'/39604, l='ServerLevel[world]', x=3942.70, y=75.00, z=-162.30] died, message: 'Cartographer was slain by Zombie'
+[19:07:31] [Server thread/INFO]: Villager class_1646['Cartographer'/39606, l='ServerLevel[world]', x=3942.51, y=75.00, z=-164.49] died, message: 'Cartographer was slain by Zombie'
