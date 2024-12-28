@@ -4730,12 +4730,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/ghast": {
-    "criteria": {
-      "has_ghast_tear": "2024-12-28 01:48:50 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/melon_smithing": {
     "criteria": {
       "has_melon": "2024-12-28 01:45:46 +0000"
@@ -4745,6 +4739,12 @@
   "travelersbackpack:recipes/misc/cake_smithing": {
     "criteria": {
       "has_cake": "2024-12-28 01:46:07 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2024-12-28 01:48:50 +0000"
     },
     "done": true
   },
