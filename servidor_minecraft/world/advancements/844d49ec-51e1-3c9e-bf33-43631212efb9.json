@@ -4748,6 +4748,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2024-12-28 15:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2024-12-28 14:40:51 +0000"
