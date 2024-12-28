@@ -169,3 +169,7 @@
 [14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
 [14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
 [14:50:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3896, y=67, z=-216} class_2338{x=3893, y=68, z=-216}
+[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
+[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
+[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
+[14:56:39] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=71, z=-159} class_2338{x=3893, y=68, z=-216}
