@@ -191,3 +191,20 @@
 [16:24:43] [Server thread/INFO]: XxchipafresaxX lost connection: Disconnected
 [16:24:43] [Server thread/INFO]: XxchipafresaxX left the game
 [16:34:28] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4019, y=73, z=-175} class_2338{x=4009, y=65, z=-163}
+[16:38:19] [Server thread/INFO]: Villager class_1646['Villager'/70, l='ServerLevel[world]', x=4010.53, y=63.70, z=-170.90] died, message: 'Villager was slain by CreeperHunte2068'
+[16:38:37] [Server thread/INFO]: Villager class_1646['Villager'/72, l='ServerLevel[world]', x=4008.41, y=62.80, z=-172.94] died, message: 'Villager was slain by CreeperHunte2068'
+[16:38:46] [Server thread/INFO]: Villager class_1646['Villager'/79, l='ServerLevel[world]', x=4011.42, y=63.00, z=-171.30] died, message: 'Villager was slain by CreeperHunte2068'
+[16:42:09] [Server thread/INFO]: Villager class_1646['Villager'/68, l='ServerLevel[world]', x=4012.53, y=70.00, z=-173.47] died, message: 'Villager was slain by CreeperHunte2068'
+[16:42:11] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[16:42:11] [Server thread/INFO]: CreeperHunte2068 left the game
+[16:42:20] [Server thread/INFO]: Stopping the server
+[16:42:20] [Server thread/INFO]: Stopping server
+[16:42:20] [Server thread/INFO]: Saving players
+[16:42:20] [Server thread/INFO]: Saving worlds
+[16:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:42:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:42:20] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
