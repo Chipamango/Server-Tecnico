@@ -33,8 +33,10 @@
       "minecraft:snowy_plains": "2024-12-05 19:19:09 +0000",
       "minecraft:snowy_taiga": "2024-11-21 13:47:04 +0000",
       "minecraft:dripstone_caves": "2024-12-05 18:51:30 +0000",
+      "minecraft:frozen_peaks": "2024-12-29 03:00:32 +0000",
       "minecraft:old_growth_birch_forest": "2024-11-04 20:49:05 +0000",
       "minecraft:deep_dark": "2024-12-27 20:05:00 +0000",
+      "minecraft:grove": "2024-12-29 03:00:18 +0000",
       "minecraft:meadow": "2024-11-03 23:41:24 +0000",
       "minecraft:plains": "2024-11-03 23:38:44 +0000"
     },
@@ -4787,6 +4789,12 @@
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2024-12-29 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/hay_smithing": {
+    "criteria": {
+      "has_hay": "2024-12-29 02:56:26 +0000"
     },
     "done": true
   },
