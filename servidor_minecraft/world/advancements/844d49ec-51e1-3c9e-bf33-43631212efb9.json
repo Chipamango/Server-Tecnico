@@ -4772,5 +4772,23 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2024-12-29 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cow_smithing": {
+    "criteria": {
+      "has_cow": "2024-12-29 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2024-12-29 00:59:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
