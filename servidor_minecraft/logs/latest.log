@@ -173,3 +173,18 @@
 [19:26:25] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 4427.500000, -13.500000, 800.500000]
 [19:27:06] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 3926.500000, 99.500000, -164.500000]
 [19:36:19] [Server thread/INFO]: Villager class_1646['Villager'/7722, l='ServerLevel[world]', x=4015.11, y=63.00, z=-173.70] died, message: 'Villager hit the ground too hard while trying to escape CreeperHunte2068'
+[19:41:29] [Server thread/INFO]: Villager class_1646['Villager'/7562, l='ServerLevel[world]', x=4012.52, y=70.00, z=-173.52] died, message: 'Villager was slain by CreeperHunte2068'
+[19:42:41] [Server thread/INFO]: Villager class_1646['Villager'/7685, l='ServerLevel[world]', x=4046.49, y=46.00, z=-169.07] died, message: 'Villager hit the ground too hard'
+[19:47:52] [Server thread/INFO]: CreeperHunte2068 lost connection: Disconnected
+[19:47:52] [Server thread/INFO]: CreeperHunte2068 left the game
+[19:48:13] [Server thread/INFO]: Stopping the server
+[19:48:13] [Server thread/INFO]: Stopping server
+[19:48:13] [Server thread/INFO]: Saving players
+[19:48:13] [Server thread/INFO]: Saving worlds
+[19:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:48:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:48:13] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
