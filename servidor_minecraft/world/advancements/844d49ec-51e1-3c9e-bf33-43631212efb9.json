@@ -4798,5 +4798,11 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2024-12-31 16:15:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
