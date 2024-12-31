@@ -19,6 +19,7 @@
       "minecraft:frozen_river": "2024-11-11 20:02:11 +0000",
       "minecraft:deep_frozen_ocean": "2024-11-10 02:30:57 +0000",
       "minecraft:ocean": "2024-11-04 20:49:17 +0000",
+      "minecraft:jungle": "2024-12-31 21:20:15 +0000",
       "minecraft:cherry_grove": "2024-11-04 20:37:01 +0000",
       "minecraft:sunflower_plains": "2024-11-04 20:36:30 +0000",
       "minecraft:birch_forest": "2024-11-04 20:48:01 +0000",
@@ -27,7 +28,9 @@
       "minecraft:flower_forest": "2024-11-04 20:35:57 +0000",
       "minecraft:beach": "2024-11-08 03:02:04 +0000",
       "minecraft:dark_forest": "2024-11-04 20:56:21 +0000",
+      "minecraft:sparse_jungle": "2024-12-31 21:21:05 +0000",
       "minecraft:river": "2024-11-04 20:32:43 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-31 21:21:08 +0000",
       "minecraft:stony_shore": "2024-11-04 20:49:13 +0000",
       "minecraft:snowy_plains": "2024-11-08 03:03:15 +0000",
       "minecraft:dripstone_caves": "2024-12-05 18:56:38 +0000",
@@ -4268,12 +4271,6 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/iron_smithing": {
-    "criteria": {
-      "has_iron": "2024-12-31 16:45:40 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/melon_smithing": {
     "criteria": {
       "has_melon": "2024-12-31 16:16:47 +0000"
@@ -4283,12 +4280,6 @@
   "travelersbackpack:recipes/misc/cactus_smithing": {
     "criteria": {
       "has_cactus": "2024-12-31 16:27:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/pig_smithing": {
-    "criteria": {
-      "has_pig": "2024-12-31 16:44:54 +0000"
     },
     "done": true
   },
@@ -4307,6 +4298,18 @@
   "travelersbackpack:recipes/misc/redstone_smithing": {
     "criteria": {
       "has_redstone": "2024-12-31 16:37:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2024-12-31 16:44:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_smithing": {
+    "criteria": {
+      "has_iron": "2024-12-31 16:45:40 +0000"
     },
     "done": true
   },
