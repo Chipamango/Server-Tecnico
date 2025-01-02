@@ -171,3 +171,12 @@
 [17:40:17] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to CreeperHunte2068]
 [17:42:54] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to CreeperHunte2068]
 [17:43:11] [Server thread/INFO]: [CreeperHunte2068: Applied 19.0 damage to XxchipafresaxX]
+[17:44:50] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3936, y=72, z=-157} class_2338{x=3935, y=72, z=-156}
+[17:45:49] [Server thread/INFO]: [CreeperHunte2068: Set the time to 18000]
+[17:50:22] [Server thread/INFO]: XxchipafresaxX lost connection: Disconnected
+[17:50:22] [Server thread/INFO]: XxchipafresaxX left the game
+[17:50:32] [Server thread/WARN]: CreeperHunte2068 moved wrongly!
+[17:50:53] [Server thread/INFO]: XxchipafresaxX[/100.125.233.123:64527] logged in with entity id 10012 at (3927.415744950107, 72.0, -178.57166292529817)
+[17:50:53] [Server thread/INFO]: Loading config from file...
+[17:50:53] [Server thread/INFO]: XxchipafresaxX joined the game
+[17:53:33] [Server thread/WARN]: XxchipafresaxX moved wrongly!
