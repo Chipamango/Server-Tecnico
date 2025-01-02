@@ -180,3 +180,9 @@
 [17:50:53] [Server thread/INFO]: Loading config from file...
 [17:50:53] [Server thread/INFO]: XxchipafresaxX joined the game
 [17:53:33] [Server thread/WARN]: XxchipafresaxX moved wrongly!
+[17:55:45] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to CreeperHunte2068]
+[17:59:06] [Server thread/INFO]: [CreeperHunte2068: Teleported XxchipafresaxX to CreeperHunte2068]
+[18:01:33] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=3981, y=65, z=-188} class_2338{x=3980, y=64, z=-188}
+[18:02:47] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4066, y=72, z=-163} class_2338{x=4060, y=73, z=-159}
+[18:03:05] [Server thread/INFO]: [Not Secure] <XxchipafresaxX> VAGONETAS
+[18:04:19] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=4052, y=72, z=-145} class_2338{x=4052, y=73, z=-146}
