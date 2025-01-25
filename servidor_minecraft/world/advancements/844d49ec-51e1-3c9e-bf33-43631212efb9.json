@@ -4889,5 +4889,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/cactus_smithing": {
+    "criteria": {
+      "has_cactus": "2025-01-25 19:05:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/pig_smithing": {
+    "criteria": {
+      "has_pig": "2025-01-25 19:05:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
