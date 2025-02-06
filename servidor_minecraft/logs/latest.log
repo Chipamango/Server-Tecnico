@@ -165,3 +165,26 @@
 [23:26:20] [Server thread/INFO]: Villager class_1646['Farmer'/4570, l='ServerLevel[world]', x=4585.50, y=63.00, z=1246.15] died, message: 'Farmer was slain by Vindicator'
 [23:26:28] [Server thread/INFO]: Villager class_1646['Armorer'/4506, l='ServerLevel[world]', x=4585.70, y=62.94, z=1243.47] died, message: 'Armorer was slain by Vindicator'
 [23:27:35] [Server thread/INFO]: Villager class_1646['Farmer'/4446, l='ServerLevel[world]', x=4541.43, y=65.86, z=1217.49] died, message: 'Farmer was slain by Vindicator'
+[23:29:58] [Server thread/INFO]: Villager class_1646['Butcher'/4303, l='ServerLevel[world]', x=4540.30, y=64.94, z=1217.40] died, message: 'Butcher was slain by Ravager'
+[23:31:28] [Server thread/INFO]: CreeperHunte2068 was slain by Vindicator
+[23:31:28] [Server thread/INFO]: Created new backpack backup file for CreeperHunte2068 with unique ID travelersbackpack.standard_06.02.2025-23.31.28.dat
+[23:31:28] [Server thread/INFO]: Your backpack has been placed at X: 4540 Y: 67 Z: 1214
+[23:31:45] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 4540.500000, 67.000000, 1212.500000]
+[23:32:27] [Server thread/INFO]: Villager class_1646['Armorer'/10986, l='ServerLevel[world]', x=4566.54, y=63.00, z=1247.29] died, message: 'Armorer was slain by Ravager'
+[23:33:53] [Server thread/INFO]: CreeperHunte2068 was slain by Vindicator
+[23:33:53] [Server thread/INFO]: Created new backpack backup file for CreeperHunte2068 with unique ID travelersbackpack.standard_06.02.2025-23.33.53.dat
+[23:33:53] [Server thread/INFO]: Your backpack has been placed at X: 4579 Y: 63 Z: 1221
+[23:33:58] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 4540.500000, 67.000000, 1212.500000]
+[23:34:21] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 4540.500000, 67.000000, 1212.500000]
+[23:34:44] [Server thread/INFO]: CreeperHunte2068 was killed by Evoker using magic
+[23:34:44] [Server thread/INFO]: Created new backpack backup file for CreeperHunte2068 with unique ID travelersbackpack.standard_06.02.2025-23.34.44.dat
+[23:34:44] [Server thread/INFO]: Your backpack has been placed at X: 4579 Y: 63 Z: 1220
+[23:34:49] [Server thread/INFO]: [CreeperHunte2068: Teleported CreeperHunte2068 to 4540.500000, 67.000000, 1212.500000]
+[23:35:01] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Creative Mode]
+[23:36:16] [Server thread/INFO]: [CreeperHunte2068: Set own game mode to Survival Mode]
+[23:37:22] [Server thread/INFO]: CreeperHunte2068 was slain by Ravager
+[23:37:22] [Server thread/INFO]: Created new backpack backup file for CreeperHunte2068 with unique ID travelersbackpack.standard_06.02.2025-23.37.22.dat
+[23:37:22] [Server thread/INFO]: Your backpack has been placed at X: 4571 Y: 63 Z: 1220
+[23:37:36] [Server thread/INFO]: CreeperHunte2068 lost connection: Timed out
+[23:37:36] [Server thread/INFO]: CreeperHunte2068 left the game
+[23:37:36] [Server thread/WARN]: handleDisconnection() called twice
